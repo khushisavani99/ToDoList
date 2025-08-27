@@ -1,0 +1,19 @@
+.container {
+    width: 800px;
+}
+
+.col-xl-2 {
+    width: 280px;
+}
+
+.btn.btn-danger.btn-sm.ml-1, button.btn.btn-success.ml-2 {
+      margin-left: 5px; /* Adjust the value as needed */
+    }
+
+span.badge.badge-success.p-2 {
+    color: green;
+}
+
+span.badge.badge-danger.p-2 {
+    color: red;
+}
